@@ -1,5 +1,5 @@
 {
-    "name": "laravelcollective/html",
+    "name": "fienta/html",
     "description": "HTML and Form Builders for the Laravel Framework",
     "license": "MIT",
     "homepage": "https://laravelcollective.com",
@@ -9,12 +9,8 @@
     },
     "authors": [
         {
-            "name": "Adam Engebretson",
-            "email": "adam@laravelcollective.com"
-        },
-        {
-            "name": "Taylor Otwell",
-            "email": "taylorotwell@gmail.com"
+          "name": "Fienta",
+	      "email": "hello@fienta.com"
         }
     ],
     "require": {
